@@ -1,2 +1,4 @@
 # Dynmic-Images-Javascript-Website
-A study trail for Javascript
+
+
+## Learn to create a header with Dynamic image slider with the help of javascript
